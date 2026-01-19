@@ -23,12 +23,3 @@ The website is fully responsive and designed with simplicity and clarity in mind
 - Tailwind CSS
 - Vite
 
----
-
-## 🔹 Getting Started
-
-To run this project locally:
-
-### 1. Clone the repository
-```sh
-git clone https://github.com/your-username/your-repo-name.git
